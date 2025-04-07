@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>albin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+        h2 {
+            color: #333;
+            font-size: 24px;
+        }
+        h4 {
+            color: #555;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 18px;
+            color: #444;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: auto;
+            text-align: justify;
+        }
+        a {
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 15px;
+            color: #007BFF;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        img {
+            width: 200px;
+            border-radius: 10px;
+            margin-top: 15px;
+            transition: transform 0.3s;
+        }
+        img:hover {
+            transform: scale(1.05);
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        tr:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+    <h2> Professional Ethical Hacking </h2>
+    
+    <h4>INTRODUCTION to Course</h4>
+
+    <p>
+     Professional Ethical Hacking  <br><br>
+        
+          The authorized practice of bypassing system security to identify potential data breaches and threats.
+        
+    </p>
+
+    <a href=https://alison.com/course/diploma-in-gdpr-and-data-protection?show_modal=true
+   target="_blank" 
+   rel="noopener noreferrer">
+    <img src="htmlcss.jpg" alt="Go to Course Page">
+</a>
+ 
+    
+    <br><br>
+
+    <a href="aboutme.html">About Me</a>
+    <br><br>
+    
+    <!-- Added hyperlink to tableandlist.html -->
+    <a href="tableandlist.html">Project List and MCQs</a>
+
+</body>
+</html>
